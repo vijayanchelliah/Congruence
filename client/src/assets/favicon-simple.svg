@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Simple building icon in white -->
+  <path fill="#FFFFFF" d="M30 20 L30 80 L50 60 L70 80 L70 20 L50 40 Z" />
+</svg>
